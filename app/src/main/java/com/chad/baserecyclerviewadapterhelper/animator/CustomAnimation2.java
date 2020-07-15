@@ -5,7 +5,7 @@ import android.animation.ObjectAnimator;
 import android.view.View;
 import android.view.animation.Interpolator;
 
-import com.chad.library.adapter.base.animation.BaseAnimation;
+import com.chad.library2.adapter.base.animation.BaseAnimation;
 
 import org.jetbrains.annotations.NotNull;
 

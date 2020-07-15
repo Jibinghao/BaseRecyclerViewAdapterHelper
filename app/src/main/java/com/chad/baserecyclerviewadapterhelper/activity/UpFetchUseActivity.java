@@ -9,7 +9,7 @@ import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.adapter.UpFetchAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
-import com.chad.library.adapter.base.listener.OnUpFetchListener;
+import com.chad.library2.adapter.base.listener.OnUpFetchListener;
 
 import java.util.ArrayList;
 import java.util.List;

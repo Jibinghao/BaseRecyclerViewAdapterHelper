@@ -10,8 +10,8 @@ import com.chad.baserecyclerviewadapterhelper.activity.node.ChooseNodeUseTypeAct
 import com.chad.baserecyclerviewadapterhelper.adapter.HomeAdapter
 import com.chad.baserecyclerviewadapterhelper.databinding.ActivityHomeBinding
 import com.chad.baserecyclerviewadapterhelper.entity.HomeEntity
-import com.chad.library.adapter.base.BaseQuickAdapter
-import com.chad.library.adapter.base.listener.OnItemClickListener
+import com.chad.library2.adapter.base.BaseQuickAdapter
+import com.chad.library2.adapter.base.listener.OnItemClickListener
 
 class HomeActivity : AppCompatActivity(), OnItemClickListener {
 

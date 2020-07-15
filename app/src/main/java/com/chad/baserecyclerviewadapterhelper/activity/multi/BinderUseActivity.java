@@ -21,12 +21,12 @@ import com.chad.baserecyclerviewadapterhelper.entity.Movie;
 import com.chad.baserecyclerviewadapterhelper.entity.MoviePresenter;
 import com.chad.baserecyclerviewadapterhelper.entity.Video;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseBinderAdapter;
-import com.chad.library.adapter.base.binder.BaseItemBinder;
-import com.chad.library.adapter.base.binder.QuickDataBindingItemBinder;
-import com.chad.library.adapter.base.binder.QuickItemBinder;
-import com.chad.library.adapter.base.binder.QuickViewBindingItemBinder;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.BaseBinderAdapter;
+import com.chad.library2.adapter.base.binder.BaseItemBinder;
+import com.chad.library2.adapter.base.binder.QuickDataBindingItemBinder;
+import com.chad.library2.adapter.base.binder.QuickItemBinder;
+import com.chad.library2.adapter.base.binder.QuickViewBindingItemBinder;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
 
 import org.jetbrains.annotations.NotNull;
 

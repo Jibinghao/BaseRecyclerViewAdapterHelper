@@ -6,8 +6,8 @@ import com.chad.baserecyclerviewadapterhelper.adapter.node.section.provider.Seco
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.ItemNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.RootFooterNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.RootNode;
-import com.chad.library.adapter.base.BaseNodeAdapter;
-import com.chad.library.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.BaseNodeAdapter;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
 
 import org.jetbrains.annotations.NotNull;
 

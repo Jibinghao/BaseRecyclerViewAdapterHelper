@@ -1,8 +1,8 @@
 package com.chad.baserecyclerviewadapterhelper.entity.node.section;
 
-import com.chad.library.adapter.base.entity.node.BaseExpandNode;
-import com.chad.library.adapter.base.entity.node.BaseNode;
-import com.chad.library.adapter.base.entity.node.NodeFooterImp;
+import com.chad.library2.adapter.base.entity.node.BaseExpandNode;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.entity.node.NodeFooterImp;
 import org.jetbrains.annotations.Nullable;
 import java.util.List;
 

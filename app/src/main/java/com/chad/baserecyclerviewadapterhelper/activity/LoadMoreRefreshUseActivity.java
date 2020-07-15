@@ -21,7 +21,7 @@ import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.Status;
 import com.chad.baserecyclerviewadapterhelper.loadmore.CustomLoadMoreView;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.listener.OnLoadMoreListener;
+import com.chad.library2.adapter.base.listener.OnLoadMoreListener;
 
 import java.util.List;
 

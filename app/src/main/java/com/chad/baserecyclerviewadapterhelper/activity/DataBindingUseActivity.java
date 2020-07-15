@@ -11,8 +11,8 @@ import com.chad.baserecyclerviewadapterhelper.adapter.DataBindingAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.listener.OnItemClickListener;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.listener.OnItemClickListener;
 
 import java.util.ArrayList;
 import java.util.List;

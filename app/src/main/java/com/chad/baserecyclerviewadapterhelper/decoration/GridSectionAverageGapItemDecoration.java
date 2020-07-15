@@ -10,9 +10,9 @@ import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.chad.library.adapter.base.BaseSectionQuickAdapter;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
-import com.chad.library.adapter.base.entity.SectionEntity;
+import com.chad.library2.adapter.base.BaseSectionQuickAdapter;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.entity.SectionEntity;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -4,9 +4,9 @@ import android.view.View;
 
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.ItemNode;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
-import com.chad.library.adapter.base.entity.node.BaseNode;
-import com.chad.library.adapter.base.provider.BaseNodeProvider;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.provider.BaseNodeProvider;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;

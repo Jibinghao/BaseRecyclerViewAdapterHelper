@@ -4,7 +4,7 @@ import com.chad.baserecyclerviewadapterhelper.adapter.multi.provider.ImgItemProv
 import com.chad.baserecyclerviewadapterhelper.adapter.multi.provider.TextImgItemProvider;
 import com.chad.baserecyclerviewadapterhelper.adapter.multi.provider.TextItemProvider;
 import com.chad.baserecyclerviewadapterhelper.entity.ProviderMultiEntity;
-import com.chad.library.adapter.base.BaseProviderMultiAdapter;
+import com.chad.library2.adapter.base.BaseProviderMultiAdapter;
 
 import org.jetbrains.annotations.NotNull;
 

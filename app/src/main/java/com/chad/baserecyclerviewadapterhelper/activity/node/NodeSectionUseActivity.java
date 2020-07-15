@@ -11,7 +11,7 @@ import com.chad.baserecyclerviewadapterhelper.adapter.node.section.NodeSectionAd
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.ItemNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.section.RootNode;
-import com.chad.library.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
 
 import java.util.ArrayList;
 import java.util.List;

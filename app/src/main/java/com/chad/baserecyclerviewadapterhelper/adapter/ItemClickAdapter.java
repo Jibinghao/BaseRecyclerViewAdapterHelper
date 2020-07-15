@@ -9,11 +9,11 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.ClickEntity;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseMultiItemQuickAdapter;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
-import com.chad.library.adapter.base.listener.OnItemChildClickListener;
-import com.chad.library.adapter.base.listener.OnItemClickListener;
+import com.chad.library2.adapter.base.BaseMultiItemQuickAdapter;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.listener.OnItemChildClickListener;
+import com.chad.library2.adapter.base.listener.OnItemClickListener;
 
 import java.util.List;
 

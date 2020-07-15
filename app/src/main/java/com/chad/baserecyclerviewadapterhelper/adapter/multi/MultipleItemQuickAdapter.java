@@ -3,8 +3,8 @@ package com.chad.baserecyclerviewadapterhelper.adapter.multi;
 import androidx.annotation.NonNull;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.QuickMultipleEntity;
-import com.chad.library.adapter.base.BaseMultiItemQuickAdapter;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.BaseMultiItemQuickAdapter;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
 import java.util.List;
 
 /**

@@ -6,8 +6,8 @@ import com.chad.baserecyclerviewadapterhelper.adapter.node.tree.provider.ThirdPr
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.FirstNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.SecondNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.ThirdNode;
-import com.chad.library.adapter.base.BaseNodeAdapter;
-import com.chad.library.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.BaseNodeAdapter;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
 
 import org.jetbrains.annotations.NotNull;
 

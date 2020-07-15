@@ -15,9 +15,9 @@ import com.chad.baserecyclerviewadapterhelper.decoration.GridSectionAverageGapIt
 import com.chad.baserecyclerviewadapterhelper.entity.MySection;
 import com.chad.baserecyclerviewadapterhelper.entity.Video;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.listener.OnItemChildClickListener;
-import com.chad.library.adapter.base.listener.OnItemClickListener;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.listener.OnItemChildClickListener;
+import com.chad.library2.adapter.base.listener.OnItemClickListener;
 
 import java.util.List;
 

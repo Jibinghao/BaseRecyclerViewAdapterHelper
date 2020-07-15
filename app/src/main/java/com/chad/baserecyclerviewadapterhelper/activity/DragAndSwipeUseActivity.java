@@ -17,11 +17,11 @@ import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.adapter.DragAndSwipeAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.listener.OnItemClickListener;
-import com.chad.library.adapter.base.listener.OnItemDragListener;
-import com.chad.library.adapter.base.listener.OnItemSwipeListener;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.listener.OnItemClickListener;
+import com.chad.library2.adapter.base.listener.OnItemDragListener;
+import com.chad.library2.adapter.base.listener.OnItemSwipeListener;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
 
 import java.util.ArrayList;
 import java.util.List;

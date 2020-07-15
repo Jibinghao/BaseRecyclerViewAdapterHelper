@@ -16,8 +16,8 @@ import com.chad.baserecyclerviewadapterhelper.animator.CustomAnimation1;
 import com.chad.baserecyclerviewadapterhelper.animator.CustomAnimation2;
 import com.chad.baserecyclerviewadapterhelper.entity.Status;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.listener.OnItemChildClickListener;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.listener.OnItemChildClickListener;
 import com.jaredrummler.materialspinner.MaterialSpinner;
 import com.kyleduo.switchbutton.SwitchButton;
 

@@ -1,6 +1,6 @@
 package com.chad.baserecyclerviewadapterhelper.entity.node.section;
 
-import com.chad.library.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
 
 import org.jetbrains.annotations.Nullable;
 

@@ -9,9 +9,9 @@ import androidx.core.view.ViewCompat;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.adapter.node.tree.NodeTreeAdapter;
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.FirstNode;
-import com.chad.library.adapter.base.entity.node.BaseNode;
-import com.chad.library.adapter.base.provider.BaseNodeProvider;
-import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.provider.BaseNodeProvider;
+import com.chad.library2.adapter.base.viewholder.BaseViewHolder;
 
 import org.jetbrains.annotations.NotNull;
 

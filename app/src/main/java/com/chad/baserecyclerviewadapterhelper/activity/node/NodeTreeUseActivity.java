@@ -13,7 +13,7 @@ import com.chad.baserecyclerviewadapterhelper.entity.node.tree.FirstNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.SecondNode;
 import com.chad.baserecyclerviewadapterhelper.entity.node.tree.ThirdNode;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.entity.node.BaseNode;
+import com.chad.library2.adapter.base.entity.node.BaseNode;
 
 import java.util.ArrayList;
 import java.util.List;

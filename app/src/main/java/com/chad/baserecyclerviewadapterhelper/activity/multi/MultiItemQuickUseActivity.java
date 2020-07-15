@@ -10,7 +10,7 @@ import com.chad.baserecyclerviewadapterhelper.adapter.multi.MultipleItemQuickAda
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.QuickMultipleEntity;
-import com.chad.library.adapter.base.listener.GridSpanSizeLookup;
+import com.chad.library2.adapter.base.listener.GridSpanSizeLookup;
 
 import java.util.List;
 

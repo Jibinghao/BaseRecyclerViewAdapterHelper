@@ -13,11 +13,11 @@ import com.chad.baserecyclerviewadapterhelper.adapter.ItemClickAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.ClickEntity;
 import com.chad.baserecyclerviewadapterhelper.utils.Tips;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.listener.OnItemChildClickListener;
-import com.chad.library.adapter.base.listener.OnItemChildLongClickListener;
-import com.chad.library.adapter.base.listener.OnItemClickListener;
-import com.chad.library.adapter.base.listener.OnItemLongClickListener;
+import com.chad.library2.adapter.base.BaseQuickAdapter;
+import com.chad.library2.adapter.base.listener.OnItemChildClickListener;
+import com.chad.library2.adapter.base.listener.OnItemChildLongClickListener;
+import com.chad.library2.adapter.base.listener.OnItemClickListener;
+import com.chad.library2.adapter.base.listener.OnItemLongClickListener;
 
 import java.util.ArrayList;
 import java.util.List;
